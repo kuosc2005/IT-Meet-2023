@@ -38,15 +38,15 @@ export default function Footer() {
           </div>
         </div>
         <div className='guidelines'>
-          <p>Brand guidelines</p>
-          <p>Brand assets</p>
           <p className='followus'>Follow us on</p>
           <div className='icons'>
             {data.socials.map((val, index) => (
+              <a key={index} href={val.link}>
               <img
-                key={index}
                 src={require(`../../../assets/${val.name}.svg`)}
               />
+              </a>
+
             ))}
           </div>
           <p className='gos'>#geekoutinstyle</p>

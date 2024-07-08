@@ -1,38 +1,34 @@
 {
   "contacts": [
     {
-      "name": "Saurav Ghimire",
+      "name": "Ranjan Lamsal",
       "post": "Coordinator,",
       "of": "IT Meet",
-      "contact": "9861958825"
+      "contact": "9843461276"
     },
     {
-      "name": "Aayush Pokharel",
-      "post": "General Secretary,",
+      "name": "Nirjal Bhurtel",
+      "post": "President,",
       "of": "KUCC",
-      "contact": "9818155899"
+      "contact": "9849460170"
     }
   ],
   "socials": [
     {
-      "name": "tiktok",
-      "link": "jfalkjd"
-    },
-    {
       "name": "facebook",
-      "link": "jfalkjd"
+      "link": "https://www.facebook.com/KUITMEET"
     },
     {
       "name": "x",
-      "link": "jfalkjd"
+      "link": "https://x.com/kuitmeet"
     },
     {
       "name": "linkedIn",
-      "link": "jfalkjd"
+      "link": "https://www.linkedin.com/company/kuitmeet"
     },
     {
       "name": "instagram",
-      "link": "jfalkjd"
+      "link": "https://www.instagram.com/kuitmeet/"
     }
   ]
 }

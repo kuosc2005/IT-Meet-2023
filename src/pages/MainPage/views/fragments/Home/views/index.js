@@ -15,8 +15,8 @@ export default function Home() {
                 </div>
                 <div className='contents'>
                     <div>
-                        <h1>December</h1>
-                        <h1 className='date'>3 & 4</h1>
+                        <h1>November</h1>
+                        <h1 className='date'>28 & 29</h1>
                     </div>
                     <div>
                         <h3><span className='at'>@</span> Kathmandu University</h3>
