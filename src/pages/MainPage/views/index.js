@@ -41,11 +41,11 @@ export default function MainPage() {
                     <Events
                     />
                 </section>
-                <section id="sponsors"
+                {/* <section id="sponsors"
                 >
                     <Sponsors
                     />
-                </section>
+                </section> */}
                 <section id="faq"
                 >
                     <QnA
